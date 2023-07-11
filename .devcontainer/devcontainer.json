@@ -19,6 +19,9 @@
 			"tflint": "latest",
 			"terragrunt": "latest"
 		},
+		"ghcr.io/devcontainers/features/sshd:1": {
+			"version": "latest"
+		},
 		"ghcr.io/jsburckhardt/devcontainer-features/azd:1": {}
 	}
 
